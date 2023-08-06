@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQH1c0WjjZM6rg/profile-displaybackgroundimage-shrink_200_800/0/1664224856148?e=2147483647&v=beta&t=LtH5_M0z-FMrALfRnEiKZHUFGP-8TjpWG5L3HKWI1tU)]
+[![MasterHead]([https://media.licdn.com/dms/image/D5616AQH1c0WjjZM6rg/profile-displaybackgroundimage-shrink_200_800/0/1664224856148?e=2147483647&v=beta&t=LtH5_M0z-FMrALfRnEiKZHUFGP-8TjpWG5L3HKWI1tU](https://github.com/DevsGirlAfroz/DevsGirlAfroz/blob/main/336912882_140575538701619_2114084434245996849_n.jpg))]
 <h1 align="center">Hi 👋, I'm Afroz</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
